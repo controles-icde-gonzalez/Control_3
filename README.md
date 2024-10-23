@@ -6,4 +6,4 @@ Para la tercera y cuarta actividad: documento csv: fallecidosCOVID
 licencia MIT, documento README
 link index 
 jupyter notebook con la realizacion de los ejercicios
-link: https://controles-icde-gonzalez.github.io/Control_3/
+link a la tarea: https://controles-icde-gonzalez.github.io/Control_3/
