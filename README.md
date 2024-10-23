@@ -7,3 +7,4 @@ licencia MIT, documento README
 link index 
 jupyter notebook con la realizacion de los ejercicios
 link a la tarea: https://controles-icde-gonzalez.github.io/Control_3/
+
